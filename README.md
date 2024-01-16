@@ -2,9 +2,9 @@
 
 :bar_chart: Data Analyst experienced in generating, reviewing and auditing Financials with over 10+ years of expertise in Banking and Manufacturing.
 
-:city_sunrise: I'm interested in BI-Analytics. Yet, being a pro in Data Storytelling, I'm in search of stories worth telling.
+:city_sunrise: I'm interested in BI Analytics. Yet, being a pro in Data Storytelling, I'm in search of stories worth telling.
 
-:balance_scale: Fun fact: Big data require prompt decisions and analysis requires attention to details. Working in Big4 equipped me with both skills. Choosing between them is the most fun and challenging task to do.
+:balance_scale: Fun fact: Big data require prompt decisions and analysis requires attention to detail. Working in Big4 equipped me with both skills. Choosing between them is the most fun and challenging task to do.
 <br>
 ### How to reach me:
 
